@@ -1,0 +1,2 @@
+This project was done in Eclipse (Neon.3 Release (4.6.3)). It requires the JSONSimple Libraries, Jersey Libraries and Apache Server to run.
+I tried my best to do this Part but I am aware this is not the solution that was required. I managed to create a web server and my own REST Api that when run fetches the prices from the Taxi services and displays the result.
